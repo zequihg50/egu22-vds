@@ -1,0 +1,14 @@
+name: vds
+channels:
+  - conda-forge
+dependencies:
+  - python>3
+  - tqdm
+  - requests
+  - pandas
+  - h5py
+  - netCDF4
+  - xarray
+  - matplotlib
+  - pip:
+    - nbgitpuller
