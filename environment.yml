@@ -10,6 +10,7 @@ dependencies:
   - netCDF4
   - xarray
   - matplotlib
+  - nco
   - pip:
     - nbgitpuller
     - nc-time-axis
