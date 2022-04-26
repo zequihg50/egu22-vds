@@ -7,3 +7,5 @@ EGU General Assembly 2022 and scheduled as 6-min short oral presentation in sess
 EGU22-7151
 Storage growth mitigation through data analysis ready climate datasets using HDF5 Virtual Datasets
 by Ezequiel Cimadevilla and Antonio S. Cofiño
+
+**How to cite**: Cimadevilla, E. and Cofiño, A. S.: Storage growth mitigation through data analysis ready climate datasets using HDF5 Virtual Datasets, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-7151, https://doi.org/10.5194/egusphere-egu22-7151, 2022. 
