@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {   
+            "orcid": "0000-0002-8437-2068",
+            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
+            "name": "Cimadevilla, Ezequiel"
+        },
+        {   
+            "orcid": "0000-0001-7719-979X",
+            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
+            "name": "Cofiño, Antonio S."
+        }
+   ],    
+    "license": "CC-BY-4.0",
+    "title": "EGU22 - Storage growth mitigation through data analysis ready climate datasets using HDF5 Virtual Datasets",
+    "description": "<p>EGU General Assembly 2022 and scheduled as 6-min short oral presentation in session ESSI2.7 – Meeting Exascale Computing Challenges with Compression and Pangeo, room 0.51 on Wednesday, 25 May 2022, 17:57 CEST</p>",
+    "keywords": ["EGU22", "HDF5", "netCDF", "ESGF"],
+    "publication_date": "2022-05-25",
+    "upload_type": "presentation",
+    "communities": [
+        {"identifier": "IS-ENES3"}
+    ]
+}
